@@ -8,9 +8,15 @@ h2{
     text-align: center;
     font-size: 30px;
 }
+h5{
+    text-align: center;
+}
 section{
     display: flex;
     margin-bottom: 10px;
+}
+footer{
+    background-color:red;
 }
 .color-change{
     color: blue;
@@ -40,6 +46,7 @@ section{
     margin: 3%;
     padding: 2%;
     border: 2px solid white;
+    border-radius: 20px;
     background-color: steelblue;
 }
 .vision img{
@@ -49,6 +56,7 @@ section{
     margin: 3%;
     padding: 2%;
     border: 2px solid white;
+    border-radius: 20px;
     background-color: thistle;
 }
 .goals img{
@@ -58,5 +66,6 @@ section{
     margin: 3%;
     padding: 2%;
     border: 2px solid white;
+    border-radius: 20px;
     background-color: wheat;
 }
