@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+section{
+    display: flex;
+}
+.color-change{
+    color: blue;
+}
+.header{
+    font-size: 25px;
+    border-left: 5px solid green;    
+}
+.button{
+    color: white;
+    background-color: yellowgreen;
+    padding: 13px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+}
+.half-width img{
+    width: 60%;
+}
+.mission img{
+    width: 60%;
+}
+.mission {
+    margin: 3%;
+    padding: 2%;
+    border: 2px solid white;
+    background-color: steelblue;
+}
+.vision img{
+    width: 60%;
+}
+.vision {
+    margin: 3%;
+    padding: 2%;
+    border: 2px solid white;
+    background-color: thistle;
+}
+.goals img{
+    width: 60%;
+}
+.goals {
+    margin: 3%;
+    padding: 2%;
+    border: 2px solid white;
+    background-color: wheat;
+}
+
