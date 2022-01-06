@@ -10,6 +10,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 10px;
 }
 .color-change{
     color: blue;
@@ -26,10 +27,11 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 7%;
+    padding-left: 10%;
+    margin: 10px 50px;
 }
 .half-width img{
-    width: 60%;
+    width: 90%;
 }
 .mission img{
     width: 60%;
@@ -58,4 +60,3 @@ section{
     border: 2px solid white;
     background-color: wheat;
 }
-
